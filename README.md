@@ -4,7 +4,7 @@
 
 This is the course material for
 the [Software Carpentry](http://software-carpentry.org/) workshop
-taking place in Würzburg July 3rd and 4th, 2017. The course is an
+taking place in Würzburg September 4th and 5th, 2017. The course is an
 introduction for novices to the Unix Shell, Python and git.
 
 ## 2 Schedule
