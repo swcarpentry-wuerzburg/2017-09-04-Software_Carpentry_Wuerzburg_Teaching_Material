@@ -28,6 +28,7 @@ introduction for novices to the Unix Shell, Python and git.
 - [ ] Breaks
 - [ ] Coffee/Tea
 - [ ] Bathroom
+- [ ] Circulate the sign-in sheet
 - [ ] Material of the course
   - https://swcarpentry.github.io/shell-novice/
   - https://swcarpentry.github.io/python-novice-inflammation/
@@ -41,7 +42,7 @@ introduction for novices to the Unix Shell, Python and git.
   - Reproducibility / Transparency
 - [ ] Who has still issue with the installation?
 
-### 2.2 Unix Shell (Konrad) [9:30 - 12:00]
+### 2.2 Unix Shell [9:30 - 12:00]
 
 - Files, folders, locations
 - Manipulating files and folders
@@ -63,12 +64,12 @@ introduction for novices to the Unix Shell, Python and git.
 - Conditionals `if` `else` startement
 - `for` loop
 
-#### 2.3.2 Session 2 (Konrad):
+#### 2.3.2 Session 2:
 
 - Function definition
 - Writing Python scripts
 
-### 2.4 Git (Konrad) [9:00 - 12:00]
+### 2.4 Git [9:00 - 12:00]
 
 - [The Softare Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
 - Setup
@@ -85,11 +86,11 @@ This session offers space for further exercises, questions and related
 topics like open source / open content licenses, open science practices,
 reproducible research.
 
+### 2.6 Discussion and feedback [16:00 - 16:30]
+
 - Fill out the [post- workshop survey of
   SWC](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2017-07-03-Wuerzburg)
 - Fill out the feedback form of the GSLS
-
-### 2.6 Discussion and feedback [16:00 - 16:30]
 
 ## 3 Sources
 
