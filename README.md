@@ -49,6 +49,9 @@ introduction for novices to the Unix Shell, Python and git.
 - Connecting tools with pipes
 - `for` loops
 - Shell scripting
+  - nano:
+    - Save: Ctrl-o
+	- Exit: Ctrl-x
 
 ### 2.3 Python [13:00 - 16:00]
 
