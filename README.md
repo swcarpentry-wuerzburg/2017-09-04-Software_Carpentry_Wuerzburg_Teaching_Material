@@ -33,6 +33,10 @@ introduction for novices to the Unix Shell, Python and git.
   - https://swcarpentry.github.io/shell-novice/
   - https://swcarpentry.github.io/python-novice-inflammation/
   - https://swcarpentry.github.io/git-novice/
+- [ ] Short references:
+  - https://swcarpentry.github.io/shell-novice/reference/
+  - https://swcarpentry.github.io/python-novice-inflammation/reference/
+  - https://swcarpentry.github.io/git-novice/reference/
 - [ ] The etherpad
   - http://pad.software-carpentry.org/2017-09-04-Wuerzburg
   -  Short URL: http://bit.ly/2vzEnex
