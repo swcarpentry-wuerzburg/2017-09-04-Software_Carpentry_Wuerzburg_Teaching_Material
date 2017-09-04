@@ -97,7 +97,8 @@ reproducible research.
 
 - Fill out the [post- workshop survey of
   SWC](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2017-07-03-Wuerzburg)
-- Fill out the feedback form of the GSLS
+- Fill out the [feedback form of de.NBI](https://de.surveymonkey.com/r/denbi-course?sc=hdhub&id=000073)
+- Fill out the offline feedback form of the GSLS
 
 ## 3 Sources
 
